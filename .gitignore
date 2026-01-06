@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# PDF files
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# HuggingFace cache
+.cache/
