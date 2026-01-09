@@ -155,11 +155,4 @@ http://localhost:8501
 
 ---
 
-## 🧑‍💻 Author
 
-**Pandurang More**  
-GitHub: https://github.com/your-username
-
----
-
-⭐ If you find this project useful, give it a star!
