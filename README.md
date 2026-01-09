@@ -1,4 +1,4 @@
-# 📄 Offline RAG Document Summarizer
+# 📄 RAG Document Summarizer
 
 A fully **offline Retrieval-Augmented Generation (RAG)** system for summarizing
 research papers and documents using **FAISS** for retrieval and **Ollama** for
