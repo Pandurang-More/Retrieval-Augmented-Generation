@@ -72,7 +72,7 @@ RAG/
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-summarizer.git
+
 cd rag-summarizer
 ```
 
