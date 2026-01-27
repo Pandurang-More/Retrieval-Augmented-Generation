@@ -10,3 +10,6 @@ __pycache__/
 
 # HuggingFace cache
 .cache/
+
+# FAISS indexes (generated)
+faiss_index/
